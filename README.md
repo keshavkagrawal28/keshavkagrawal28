@@ -49,6 +49,7 @@ me.sayHi();
 ## 🔧 Technologies & Tools
 
 **Programming Languages:**
+<br>
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-181717?logo=javascript)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-181717?logo=html5)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-181717?logo=css3)
