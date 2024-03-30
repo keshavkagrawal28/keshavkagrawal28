@@ -48,9 +48,40 @@ me.sayHi();
 
 ## 🔧 Technologies & Tools
 
-**Cloud Services:**
-
 **Programming Languages:**
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-181717?logo=javascript)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-181717?logo=html5)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-181717?logo=css3)
+![SCSS Badge](https://img.shields.io/badge/SCSS-181717?logo=sass)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-181717?logo=typescript)
+![Java Badge](https://img.shields.io/badge/Java-181717?logo=java)
+![Python Badge](https://img.shields.io/badge/Python-181717?logo=python)
 
-**Tools and Services:**
+**Frontend Frameworks/Libraries:**
+![Angular Badge](https://img.shields.io/badge/Angular-181717?logo=angular)
+![React Badge](https://img.shields.io/badge/React-181717?logo=react)
+![PrimeNG Badge](https://img.shields.io/badge/PrimeNG-181717?logo=angular)
+![Angular Material UI Badge](https://img.shields.io/badge/Angular%20Material%20UI-181717?logo=angular)
 
+**Design and Collaboration Tools:**
+![Figma Badge](https://img.shields.io/badge/Figma-181717?logo=figma)
+![JIRA Badge](https://img.shields.io/badge/JIRA-181717?logo=jira)
+
+**Database Technologies:**
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-181717?logo=mongodb)
+![SQL Badge](https://img.shields.io/badge/SQL-181717?logo=sql)
+![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-181717?logo=elasticsearch)
+
+**Backend Frameworks/Libraries:**
+![Node.js Badge](https://img.shields.io/badge/Node.js-181717?logo=node.js)
+![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-181717?logo=spring)
+
+**Development Tools:**
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Docker Badge](https://img.shields.io/badge/Docker-181717?logo=docker)
+![Jenkins Badge](https://img.shields.io/badge/Jenkins-181717?logo=jenkins)
+![VSCode Badge](https://img.shields.io/badge/VSCode-181717?logo=visual-studio-code)
+![Eclipse Badge](https://img.shields.io/badge/Eclipse-181717?logo=eclipse)
+![Spring Tool Suite Badge](https://img.shields.io/badge/Spring%20Tool%20Suite-181717?logo=spring)
+![MongoDB Compass Badge](https://img.shields.io/badge/MongoDB%20Compass-181717?logo=mongodb)
+![Postman Badge](https://img.shields.io/badge/Postman-181717?logo=postman)
