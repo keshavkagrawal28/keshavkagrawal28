@@ -59,25 +59,30 @@ me.sayHi();
 ![Python Badge](https://img.shields.io/badge/Python-181717?logo=python)
 
 **Frontend Frameworks/Libraries:**
+<br>
 ![Angular Badge](https://img.shields.io/badge/Angular-181717?logo=angular)
 ![React Badge](https://img.shields.io/badge/React-181717?logo=react)
 ![PrimeNG Badge](https://img.shields.io/badge/PrimeNG-181717?logo=angular)
 ![Angular Material UI Badge](https://img.shields.io/badge/Angular%20Material%20UI-181717?logo=angular)
 
 **Design and Collaboration Tools:**
+<br>
 ![Figma Badge](https://img.shields.io/badge/Figma-181717?logo=figma)
 ![JIRA Badge](https://img.shields.io/badge/JIRA-181717?logo=jira)
 
 **Database Technologies:**
+<br>
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-181717?logo=mongodb)
 ![SQL Badge](https://img.shields.io/badge/SQL-181717?logo=sql)
 ![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-181717?logo=elasticsearch)
 
 **Backend Frameworks/Libraries:**
+<br>
 ![Node.js Badge](https://img.shields.io/badge/Node.js-181717?logo=node.js)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-181717?logo=spring)
 
 **Development Tools:**
+<br>
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![Docker Badge](https://img.shields.io/badge/Docker-181717?logo=docker)
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-181717?logo=jenkins)
