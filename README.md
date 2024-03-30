@@ -94,12 +94,10 @@ me.sayHi();
 
 <hr>
 
-<br />
-*NOTE: Top languages are not my only skill level, they are simply an indication of my code committed on github*
-<br />
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkagrawal28&exclude_repo=github-readme-stats,campk12,hearandspell,90Plus,sks,loginandres&layout=compact&langs_count=8&card_width=450" alt="keshavkagrawal28" />
 </p>
+*NOTE: Top languages are not my only skill level, they are simply an indication of my code committed on github*
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=keshavkagrawal28.keshavkagrawal28)
 
