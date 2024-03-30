@@ -49,7 +49,7 @@ me.sayHi();
 ## 🔧 Technologies & Tools
 
 **Programming Languages:**
-<br>
+<br />
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-181717?logo=javascript)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-181717?logo=html5)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-181717?logo=css3)
@@ -59,30 +59,30 @@ me.sayHi();
 ![Python Badge](https://img.shields.io/badge/Python-181717?logo=python)
 
 **Frontend Frameworks/Libraries:**
-<br>
+<br />
 ![Angular Badge](https://img.shields.io/badge/Angular-181717?logo=angular)
 ![React Badge](https://img.shields.io/badge/React-181717?logo=react)
 ![PrimeNG Badge](https://img.shields.io/badge/PrimeNG-181717?logo=angular)
 ![Angular Material UI Badge](https://img.shields.io/badge/Angular%20Material%20UI-181717?logo=angular)
 
 **Design and Collaboration Tools:**
-<br>
+<br />
 ![Figma Badge](https://img.shields.io/badge/Figma-181717?logo=figma)
 ![JIRA Badge](https://img.shields.io/badge/JIRA-181717?logo=jira)
 
 **Database Technologies:**
-<br>
+<br />
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-181717?logo=mongodb)
 ![SQL Badge](https://img.shields.io/badge/SQL-181717?logo=sql)
 ![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-181717?logo=elasticsearch)
 
 **Backend Frameworks/Libraries:**
-<br>
+<br />
 ![Node.js Badge](https://img.shields.io/badge/Node.js-181717?logo=node.js)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-181717?logo=spring)
 
 **Development Tools:**
-<br>
+<br />
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![Docker Badge](https://img.shields.io/badge/Docker-181717?logo=docker)
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-181717?logo=jenkins)
@@ -96,7 +96,7 @@ me.sayHi();
 
 <br />
 *NOTE: Top languages are not my only skill level, they are simply an indication of my code committed on github*
-
+<br />
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkagrawal28&exclude_repo=github-readme-stats,campk12,hearandspell,90Plus,sks,loginandres&layout=compact&langs_count=8&card_width=450" alt="keshavkagrawal28" />
 </p>
