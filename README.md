@@ -45,3 +45,12 @@ me.sayHi();
 </div>
 
 <hr/>
+
+## 🔧 Technologies & Tools
+
+**Cloud Services:**
+
+**Programming Languages:**
+
+**Tools and Services:**
+
