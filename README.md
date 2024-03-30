@@ -95,7 +95,7 @@ me.sayHi();
 <hr>
 
 <br />
-  *NOTE: Top languages are not only my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
+  *NOTE: Top languages are not my only skill level, they are simply an indication of my code committed on github*
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkagrawal28&exclude_repo=github-readme-stats,campk12,hearandspell,90Plus,sks,loginandres&layout=compact&langs_count=8&card_width=450" alt="keshavkagrawal28" />
