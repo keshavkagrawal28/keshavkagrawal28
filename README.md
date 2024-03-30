@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+class SoftwareEngineer {
+    constructor() {
+        this.name = "Zhenye Na";
+        this.role = "Software Engineer";
+        this.language_spoken = ["zh_CN", "en_US"];
+    }
+
+    sayHi() {
+        console.log("Thanks for dropping by, hope you find some of my work interesting.");
+    }
+}
+
+let me = new SoftwareEngineer();
+me.sayHi();
