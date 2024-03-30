@@ -35,7 +35,7 @@ me.sayHi();
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 - 💼 Any web development work? Email me 😄
-- 💬 Ask me about anything <a href="www.google.com">here</a>, I am happy to help;
+- 💬 Ask me about anything <a href="https://github.com/keshavkagrawal28/keshavkagrawal28/issues/new">here</a>, I am happy to help;
 
 <div align="center">
   <a href="https://www.linkedin.com/in/your_username/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
