@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
 class SoftwareEngineer {
 
     constructor() {
@@ -30,3 +31,4 @@ class SoftwareEngineer {
 
 let me = new SoftwareEngineer();
 me.sayHi();
+```
