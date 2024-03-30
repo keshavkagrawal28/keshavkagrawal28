@@ -91,3 +91,5 @@ me.sayHi();
 ![Spring Tool Suite Badge](https://img.shields.io/badge/Spring%20Tool%20Suite-181717?logo=spring)
 ![MongoDB Compass Badge](https://img.shields.io/badge/MongoDB%20Compass-181717?logo=mongodb)
 ![Postman Badge](https://img.shields.io/badge/Postman-181717?logo=postman)
+
+<hr>
