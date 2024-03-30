@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 class SoftwareEngineer {
+
     constructor() {
-        this.name = "Zhenye Na";
+        this.name = "Keshav Agrawal";
         this.role = "Software Engineer";
-        this.language_spoken = ["zh_CN", "en_US"];
+        this.language_spoken = ["hi_IN", "en_US"];
     }
 
     sayHi() {
