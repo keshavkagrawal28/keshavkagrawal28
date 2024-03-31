@@ -94,7 +94,9 @@ me.sayHi();
 
 <hr>
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume-brightgreen)](https://github.com/keshavkagrawal28/keshavkagrawal28/raw/main/resume.pdf)
+<div align="center">
+  <a href="https://github.com/keshavkagrawal28/keshavkagrawal28/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Download-Resume-brightgreen" alt="Resume"></a>
+</div>
 
 <hr>
 
