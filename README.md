@@ -96,7 +96,7 @@ me.sayHi();
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1KuRiw9xVxC9LHRh3Mu2lD_FOrZku8ajI/view"><img src="https://img.shields.io/badge/View-Resume-blue" alt="Resume"></a>
-  <a href="https://github.com/keshavkagrawal28/keshavkagrawal28/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Download-Resume-brightgreen" alt="Resume"></a>
+  <a href="https://raw.githubusercontent.com/keshavkagrawal28/keshavkagrawal28/main/RESUME_KESHAV_AGRAWAL.pdf"><img src="https://img.shields.io/badge/Download-Resume-brightgreen" alt="Resume"></a>
 </div>
 
 <hr>
